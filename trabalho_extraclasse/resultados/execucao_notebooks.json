@@ -1,0 +1,22 @@
+[
+  {
+    "notebook": "conjunto_a/01_problema_e_exploracao.ipynb",
+    "segundos": 28.41,
+    "estado": "executado_sem_erros"
+  },
+  {
+    "notebook": "conjunto_a/02_modelos_e_decisao.ipynb",
+    "segundos": 3.46,
+    "estado": "executado_sem_erros"
+  },
+  {
+    "notebook": "conjunto_b/01_serie_e_diagnostico.ipynb",
+    "segundos": 5.69,
+    "estado": "executado_sem_erros"
+  },
+  {
+    "notebook": "conjunto_b/02_previsao_e_decisao.ipynb",
+    "segundos": 12.44,
+    "estado": "executado_sem_erros"
+  }
+]

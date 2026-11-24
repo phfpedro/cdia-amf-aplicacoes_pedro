@@ -1,0 +1,73 @@
+{
+  "filtros": [
+    {
+      "etapa": "Arquivo integral",
+      "antes": 119390,
+      "depois": 119390,
+      "excluidas": 0
+    },
+    {
+      "etapa": "Somente City Hotel",
+      "antes": 119390,
+      "depois": 79330,
+      "excluidas": 40060
+    },
+    {
+      "etapa": "Criada antes do dia da chegada",
+      "antes": 79330,
+      "depois": 76221,
+      "excluidas": 3109
+    },
+    {
+      "etapa": "Estadia planejada entre 1 e 14 noites",
+      "antes": 76221,
+      "depois": 75940,
+      "excluidas": 281
+    },
+    {
+      "etapa": "Ativa no fim da véspera",
+      "antes": 75940,
+      "depois": 44393,
+      "excluidas": 31547
+    }
+  ],
+  "n": 44393,
+  "positivos": 1155,
+  "dias": 793,
+  "taxa": 0.02601761538981371,
+  "particoes": [
+    {
+      "parte": "treino",
+      "n": 25775,
+      "inicio": "2015-07-01 00:00:00",
+      "fim": "2016-10-30 00:00:00",
+      "ultimo_rotulo": "2016-11-01 00:00:00",
+      "positivos": 751
+    },
+    {
+      "parte": "calibracao",
+      "n": 2430,
+      "inicio": "2016-11-01 00:00:00",
+      "fim": "2016-12-17 00:00:00",
+      "ultimo_rotulo": "2016-12-28 00:00:00",
+      "positivos": 67
+    },
+    {
+      "parte": "validacao",
+      "n": 1871,
+      "inicio": "2017-01-01 00:00:00",
+      "fim": "2017-02-14 00:00:00",
+      "ultimo_rotulo": "2017-02-25 00:00:00",
+      "positivos": 44
+    },
+    {
+      "parte": "teste",
+      "n": 12488,
+      "inicio": "2017-03-01 00:00:00",
+      "fim": "2017-08-29 00:00:00",
+      "ultimo_rotulo": "2017-09-08 00:00:00",
+      "positivos": 231
+    }
+  ],
+  "dias_sem_exposicao": 6
+}

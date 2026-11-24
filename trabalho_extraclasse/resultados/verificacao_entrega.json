@@ -1,0 +1,15 @@
+{
+  "estado": "aprovado",
+  "verificacoes": [
+    "Notebook executado, válido e acompanhado de prompt: conjunto_a/01_problema_e_exploracao.ipynb",
+    "Notebook executado, válido e acompanhado de prompt: conjunto_a/02_modelos_e_decisao.ipynb",
+    "Notebook executado, válido e acompanhado de prompt: conjunto_b/01_serie_e_diagnostico.ipynb",
+    "Notebook executado, válido e acompanhado de prompt: conjunto_b/02_previsao_e_decisao.ipynb",
+    "Mesma população e mesmo alvo diário em A e B, inclusive no teste",
+    "Perdas de A equivalentes às de B para uma reserva; valores exportados recalculados",
+    "Embargo de 15 dias e cronologia da calibração/seleção/teste respeitados",
+    "Sem sobreposição de alvos entre origens; mesmas datas para todos os modelos",
+    "Quantis inteiros, não negativos, ordenados e com previsões finitas",
+    "Hashes da base e dos documentos preservados conferidos"
+  ]
+}

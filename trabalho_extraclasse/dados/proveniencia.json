@@ -1,0 +1,24 @@
+{
+  "fonte_download": "https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2020/2020-02-11/hotels.csv",
+  "fonte_documentacao": "https://github.com/rfordatascience/tidytuesday/tree/main/data/2020/2020-02-11",
+  "artigo_original": "https://doi.org/10.1016/j.dib.2018.11.126",
+  "data_obtencao_local": "2026-11-17",
+  "sha256": "7c2ae42a7353905ea136e5c2287f17c92c5435826598bfbb8491c6f0c7b1fc06",
+  "bytes": 16855599,
+  "linhas": 119390,
+  "licenca": "Artigo original: CC BY, conforme o próprio PDF; espelho TidyTuesday atribui os dados aos autores. Nenhuma licença CC0 independente foi presumida.",
+  "documentos_preservados": [
+    {
+      "arquivo": "fontes/TRABALHO_extraclasse.pdf",
+      "sha256": "75b920029cfc4b222b6465ac2a480989b5281e726ac951e0fb999206966e48cb"
+    },
+    {
+      "arquivo": "fontes/hotel_booking_demand_artigo.pdf",
+      "sha256": "152feea4cb66dbfc3dfe210df5dbb54f7474a9d95a8d88b7e8125d3d9ffd9f19"
+    },
+    {
+      "arquivo": "fontes/tidytuesday_dicionario.md",
+      "sha256": "fd96f4ed42be79c0c5064946f44fbd16ef9fdff05fc93df199073920a092c219"
+    }
+  ]
+}
